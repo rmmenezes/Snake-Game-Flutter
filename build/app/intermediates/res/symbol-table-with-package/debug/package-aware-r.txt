@@ -1,0 +1,2 @@
+io.flutter.plugins.sensorsexample
+mipmap ic_launcher
