@@ -4,8 +4,7 @@ description: Demonstrates how to use the sensors plugin.
 dependencies:
   flutter:
     sdk: flutter
-  sensors:
-    path: ../
+  sensors: ^0.4.0+1
 
 flutter:
 

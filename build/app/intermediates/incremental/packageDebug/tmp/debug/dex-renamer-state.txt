@@ -1,4 +1,4 @@
-#Tue Sep 24 15:28:07 BRT 2019
-base.0=C\:\\Users\\Administrador\\Desktop\\sensors\\example\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+#Tue Oct 29 11:16:34 BRST 2019
+base.0=C\:\\Users\\Administrador\\Documents\\GitHub\\Snake-Game-Flutter\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex
